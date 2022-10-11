@@ -10,7 +10,7 @@
 [Ir al buyer persona](https://github.com/MsNutria/Mission-Front-End/blob/main/01-%20Intro/Practica%201/BuyerPersona%20Eleonora%20Diaz.pdf)
 
 ### Wireframe :japanese_ogre:
-[Ir al wireframe]https://www.figma.com/file/fYxRdGpGnhyMgF2UMv0L6E/Abogabot?node-id=0%3A1
+[Ir al wireframe](https://www.figma.com/file/fYxRdGpGnhyMgF2UMv0L6E/Abogabot?node-id=0%3A1)
 
 
 ### Diseño UI  :panda_face:
