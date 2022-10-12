@@ -9,6 +9,9 @@
 
 [Ir al buyer persona](https://github.com/MsNutria/Mission-Front-End/blob/main/01-%20Intro/Practica%201/BuyerPersona%20Eleonora%20Diaz.pdf)
 
+### Público Objetivo  :fire:
+[Ir al público objetivo](https://www.figma.com/file/1AOuZJclBApb2rIb6ha3jd/Publico-Objetivo-Abogabot?node-id=0%3A1)
+
 ### Wireframe :japanese_ogre:
 [Ir al wireframe](https://www.figma.com/file/fYxRdGpGnhyMgF2UMv0L6E/Abogabot?node-id=0%3A1)
 
