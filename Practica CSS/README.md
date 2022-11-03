@@ -1,4 +1,4 @@
-# Práctica HTML 
+# Práctica CSS
 
 ## Página vacunas ✨👩‍⚕️
 
